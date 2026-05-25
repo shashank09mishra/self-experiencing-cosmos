@@ -48,7 +48,8 @@ An immersive futuristic philosophical-scientific web experience exploring:
 
 ## 📸 Preview
 
-<img width="100%" src="![alt text](image.png)"/>
+<img width="1894" height="799" alt="image" src="https://github.com/user-attachments/assets/fb22f11b-5551-4b7d-a19b-d372ca78fa43" />
+
 
 ---
 
